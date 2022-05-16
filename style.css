@@ -1,0 +1,88 @@
+:root {}
+
+html {
+    background-color: lightblue;
+}
+
+canvas {
+    background-color: white;
+    margin: 20px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    border-radius: 3px;
+    background-color: black;
+}
+
+th {
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 3px;
+    background-color: white;
+}
+
+.center {
+    text-align: center;
+}
+
+.user-input {
+    text-align: center;
+    display: block;
+    margin: 4vh;
+}
+
+#header-title {
+    text-align: center;
+    font-family: Arial;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    font-family: Arial;
+}
+
+#input-box {
+    padding: 8px;
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 4px;
+    border-color: white;
+}
+
+#set-button {
+    padding: 8px;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 4px;
+    border-color: white;
+}
+
+#show-instructions {
+    padding: 8px;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 4px;
+    border-color: white;
+}
+
+#user-message {
+    font-family: Arial;
+    font-size: 20px;
+}
+
+#description {
+    font-family: Arial;
+    font-size: 20px;
+    line-height: 1.5em;
+}
